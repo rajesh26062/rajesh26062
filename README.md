@@ -1,3 +1,4 @@
+![logo](https://github.com/rajesh26062/rajesh26062/blob/main/Screenshot%202024-06-01%20093424.png)
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">"Innovating Beyond Boundaries"</h3>
 
